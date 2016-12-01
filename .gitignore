@@ -1,0 +1,7 @@
+*.txt*
+*.npy
+*.pdf
+*.pyc
+*.out
+*~
+
